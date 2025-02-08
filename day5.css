@@ -1,0 +1,57 @@
+.Heading{
+    background-color: black;
+    color: azure;
+}
+button{
+    color: white;
+    background-color: orange;
+}
+p{
+    font-size: 20px;
+    /* line-height: 20px; */
+    text-transform: capitalize;
+}
+div{
+    /* height: 50px;
+    width: 50px;
+    background-color: pink;
+    margin: 20px;
+    border-width: 2px;
+    border-color: chartreuse;
+    border-style: dashed;
+    border-radius: 2px; */
+    /* padding-left: 20px;
+    padding-top: 20px; */
+    /* padding: 20px; */
+}
+#name{
+    color: orange;
+    padding-right: 100px;
+}
+#account{
+    text-align: center;
+    padding-right: 200px;
+}
+#cart{
+    padding-right: 200px;
+}
+#contact{
+    padding-right: 200px;
+}
+body{
+    height: 60px;
+    background-color: black;
+    color: white;
+}
+*{
+    padding: 0%;
+    margin: 0px;
+}
+#search{
+    border: 20px black;
+    margin: 2px;
+}
+#input{
+    padding: 2px;
+    margin: 5px;
+}

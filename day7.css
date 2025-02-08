@@ -1,0 +1,68 @@
+/* div{
+    height: 100px;
+    width: 50px;
+    top:100px;
+    left: 100px;
+    background-color: coral;
+    border: 2px solid black;
+    /* border-radius: 50%; */
+    /* padding: 20px; */
+    /* transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transform: translate(200px); */
+    /* animation-name: colorAnimate;
+    animation-duration: 5s; */
+    /* animation-timing-function: ease-in; */
+    /* animation-iteration-count: 5;
+    animation-direction: alternate; */
+    /* position: relative;
+    animation: colorAnimate 5s ease-in 0s infinite normal; */
+
+/* @media(max-width:600px) and (min-width:400px){
+    div{
+        background-color: red; */
+
+/* @media(max-width:300px){
+div{
+        background-color: greenyellow;
+    }
+} */
+ /* div:hover{
+    font-size: 20px;
+ }
+ div:active{
+    background-color: brown;
+    color: aliceblue;
+ } */
+  /* @keyframes colorAnimate{
+    0%{
+        left: 0px;
+    }
+    50%{
+        left: 200px;
+        background-color: aqua;
+    }
+    100%{
+        left: 250px;
+        background-color: black;
+        color: aliceblue;
+    }
+  } */
+   .loader{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 10px solid blue;
+    border-top: 10px solid black;
+    animation: spin 1s  ease-in 0s infinite normal;
+   }
+   @keyframes spin{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+   }
+  

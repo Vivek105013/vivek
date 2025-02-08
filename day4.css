@@ -1,0 +1,26 @@
+#text1{
+    color: aqua;
+    background-color: black;
+    text-align: center;
+}
+#table{
+    color: aquamarine;
+}
+h2{
+    text-align: center;
+    text-decoration: overline;
+}
+button{
+    color: rgb(255, 0, 0);
+    /* background-color:rgb(225, 207, 207); */
+    text-align: center;
+}
+body{
+    /* background-color: black; */
+}
+p{
+    text-align: right;
+}
+a{
+    text-decoration: none;
+}
